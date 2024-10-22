@@ -1,4 +1,5 @@
 # Audio/Video Transcription Tool
+[中文版本说明](https://github.com/i4leader/audio-video-transcription-tool/blob/main/README_CN.md)
 
 This is a Python-based tool with a graphical user interface (GUI) that allows users to transcribe audio and video files using Azure's Speech-to-Text service. The tool supports various audio and video formats and converts them to WAV format before transcription.
 
