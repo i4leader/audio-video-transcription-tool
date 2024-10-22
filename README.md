@@ -19,7 +19,7 @@ This is a Python-based tool with a graphical user interface (GUI) that allows us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/i4leader/audio-video-transcription-tool.git
+    git clone https://github.com/yourusername/audio-video-transcription-tool.git
     cd audio-video-transcription-tool
     ```
 
@@ -38,12 +38,17 @@ This is a Python-based tool with a graphical user interface (GUI) that allows us
     ```
 
 2. Fill in the required fields in the GUI:
-    - Azure Subscription Key
+    - Azure Subscription Key(Key for speech service)
     - Region
     - Source File (audio or video)
     - Output File (optional)
 
 3. Click "Start Transcription" to begin the process.
+
+## To Do List
+
+- **Support more speech services**: Integrate with other speech-to-text services like AWS, GCP, or local ones.
+- **Support generating subtitles for different languages**: Add functionality to generate subtitles in various languages.
 
 ## License
 
