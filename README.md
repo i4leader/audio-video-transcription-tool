@@ -10,6 +10,17 @@ This is a Python-based tool with a graphical user interface (GUI) that allows us
 - **Azure Speech-to-Text Integration**: Utilizes Azure's Speech-to-Text service for accurate transcriptions.
 - **User-Friendly GUI**: Easy-to-use interface built with `tkinter`.
 
+## Azure Speech Service Free Tier
+
+Azure Speech Service offers a free tier that includes 5 audio hours free per month for speech-to-text services. This includes:
+
+- **Standard Speech to Text**: 5 audio hours free per month
+- **Custom Speech to Text**: 5 audio hours free per month
+- **Conversation Transcription Multichannel Audio (Preview)**: 5 audio hours free per month
+
+For more details, please refer to the [Azure Speech Service pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/).
+
+
 ## Requirements
 
 - Python 3.x
