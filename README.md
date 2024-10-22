@@ -19,7 +19,7 @@ This is a Python-based tool with a graphical user interface (GUI) that allows us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/audio-video-transcription-tool.git
+    git clone https://github.com/i4leader/audio-video-transcription-tool.git
     cd audio-video-transcription-tool
     ```
 
